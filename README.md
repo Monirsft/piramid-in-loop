@@ -1,0 +1,1 @@
+# piramid-in-loop
